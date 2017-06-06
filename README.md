@@ -1,5 +1,4 @@
-# iotansible
-ansible and IOT
+# Ansible meets IOT
 
 | Parts        | Qty           | 
 | ------------- |:-------------:|
