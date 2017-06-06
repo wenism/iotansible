@@ -3,7 +3,7 @@ ansible and IOT
 
 | Parts        | Qty           | 
 | ------------- |:-------------:|
-| [Raspberry Pi 3](http://amzn.eu/0Gxy4ku)|n=5|
+| [Raspberry Pi 3](http://au.element14.com/buy-raspberry-pi?rd=raspberry+pi+3)|n=5|
 | Micro SD Card      | n      | 
 | Portable WLAN router | 1     |
 | 100MB Switch | 1      |
