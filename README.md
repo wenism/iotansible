@@ -22,6 +22,6 @@
 2. Format SD Card
 3. Flash ISO into SD card
 4. Boot up and get the MAC address for each pi
-5. Reserve IP address for each pi based on MAC address (at your WLAN's console)
+5. From WLAN UI, reserve IP address for each pi based on MAC address
 6. Prepare your ansible host file
 7. Ansible away!
